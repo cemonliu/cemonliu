@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![cemonliu github stats](https://github-readme-stats.vercel.app/api?username=cemonliu&show_icons=true)
 
 <!-- 编程语言统计 -->
